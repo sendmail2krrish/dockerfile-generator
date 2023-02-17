@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3db9b11d.css",
-    "main.js": "/static/js/main.7a5ec9fc.js",
-    "static/js/787.1db29ed4.chunk.js": "/static/js/787.1db29ed4.chunk.js",
-    "static/media/settings-svgrepo-com.svg": "/static/media/settings-svgrepo-com.720fedd28b29358702052c0271160e3a.svg",
-    "index.html": "/index.html",
-    "static/media/docker-svgrepo-com.svg": "/static/media/docker-svgrepo-com.7c7ad15b70f2bf796a747e62f23a4265.svg",
-    "static/media/copy-course-svgrepo-com.svg": "/static/media/copy-course-svgrepo-com.0b92974cfd9668b6421db7c0c2efbd1d.svg",
-    "static/media/plus-small-svgrepo-com.svg": "/static/media/plus-small-svgrepo-com.52e3249d2130638e176e072bfe0f7b3a.svg",
-    "static/media/minus-small-svgrepo-com.svg": "/static/media/minus-small-svgrepo-com.e864ced88057078c2135eb919d533305.svg",
-    "main.3db9b11d.css.map": "/static/css/main.3db9b11d.css.map",
-    "main.7a5ec9fc.js.map": "/static/js/main.7a5ec9fc.js.map",
-    "787.1db29ed4.chunk.js.map": "/static/js/787.1db29ed4.chunk.js.map"
+    "main.css": "/dockerfile-generator/static/css/main.3db9b11d.css",
+    "main.js": "/dockerfile-generator/static/js/main.775ec10f.js",
+    "static/js/787.1db29ed4.chunk.js": "/dockerfile-generator/static/js/787.1db29ed4.chunk.js",
+    "static/media/settings-svgrepo-com.svg": "/dockerfile-generator/static/media/settings-svgrepo-com.720fedd28b29358702052c0271160e3a.svg",
+    "index.html": "/dockerfile-generator/index.html",
+    "static/media/docker-svgrepo-com.svg": "/dockerfile-generator/static/media/docker-svgrepo-com.7c7ad15b70f2bf796a747e62f23a4265.svg",
+    "static/media/copy-course-svgrepo-com.svg": "/dockerfile-generator/static/media/copy-course-svgrepo-com.0b92974cfd9668b6421db7c0c2efbd1d.svg",
+    "static/media/plus-small-svgrepo-com.svg": "/dockerfile-generator/static/media/plus-small-svgrepo-com.52e3249d2130638e176e072bfe0f7b3a.svg",
+    "static/media/minus-small-svgrepo-com.svg": "/dockerfile-generator/static/media/minus-small-svgrepo-com.e864ced88057078c2135eb919d533305.svg",
+    "main.3db9b11d.css.map": "/dockerfile-generator/static/css/main.3db9b11d.css.map",
+    "main.775ec10f.js.map": "/dockerfile-generator/static/js/main.775ec10f.js.map",
+    "787.1db29ed4.chunk.js.map": "/dockerfile-generator/static/js/787.1db29ed4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3db9b11d.css",
-    "static/js/main.7a5ec9fc.js"
+    "static/js/main.775ec10f.js"
   ]
 }
